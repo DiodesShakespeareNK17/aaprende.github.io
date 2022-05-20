@@ -1,0 +1,62 @@
+h1{
+    display: inline-block;
+    position: absolute;
+    font-size: 65px;
+    font-family: 'Press Start 2P', cursive;
+    left: 100px;
+    top: 4cm;
+
+
+}
+a{
+    display: inline-block;
+    position: absolute;
+    text-decoration:none;
+    color: black;
+    font-size: 40px;
+    text-decoration: solid;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    top: 13cm;
+    left: 4cm;
+    text-decoration: solid;
+    font-family:'Press Start 2P', cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 10px #aaa;
+}
+
+img{
+    position: absolute;
+    display: inline-block;
+    height: 480px;
+    left: 35cm;
+    top: 4cm;
+
+
+}
+
+.Subtitulo {
+
+    position: absolute;
+    width: 100vw;
+    height: 50px;
+    background-color: black;
+    top: 25cm;
+
+}
+.Contenido{
+    display: block;
+    position: absolute;
+    color: white;
+    top: 25cm;
+    background-color: black;
+    width: 100%;
+    left: 0.001cm;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}

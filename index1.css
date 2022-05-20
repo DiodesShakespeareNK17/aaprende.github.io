@@ -1,0 +1,110 @@
+.text {
+    display: inline-block;
+    position: absolute;
+    width: 25cm;
+    height: 25cm;
+    top: 5cm;
+    left: 15cm;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+}
+
+h1{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+
+}
+
+img {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    right: 80%;
+    top: 3cm;
+    left: 3cm;
+
+
+
+}
+a{
+    display: inline-block;
+    position: absolute;
+    text-decoration:none;
+    color: black;
+    font-size: 40px;
+    text-decoration: solid;
+    background-color: rgb(215, 215, 243);
+    padding: 10px;
+    border-radius: 15px;
+    top: 12cm;
+    left: 15cm;
+    text-decoration: solid;
+    font-family:'Press Start 2P', cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 10px #aaa;
+}
+
+.text5{
+    font-size: 20px;
+}
+
+.imagenbaja{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 25cm;
+    left: 42cm;
+
+}
+
+.textfin {
+    display: inline-block;
+    position: absolute;
+    width: 25cm;
+    height: 40cm;
+    top: 5cm;
+    left: 13cm;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
+    margin-bottom: 10cm;
+}
+
+.boton4{
+    position: absolute;
+    top: 39cm;
+}
+
+.Contenido{
+    display: block;
+    position: absolute;
+    color: white;
+    top: 25cm;
+    background-color: black;
+    width: 100%;
+    left: 0.001cm;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.Contenido4{
+    display: block;
+    position: absolute;
+    color: white;
+    top: 45cm;
+    background-color: black;
+    width: 100%;
+    left: 0.001cm;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
